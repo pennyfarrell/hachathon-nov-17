@@ -8,23 +8,24 @@ Short description
 
 ## Table of contents
 
-1. [UX](#UX)
-    - [User Stories](#User-Stories)
-    - [Wireframes](#Wireframes)
-    - [Database schema](#Database-schema)
-    - [Style and colours](#Style-and-colours)
-2. [Features](#Features)
-    - [Existing Features](#Existing-Features)
-        - [Feature1](#Feature1)
-        - [Feature2](#Feature2)
-        - [Feature3](#Feature3)
-    - [Future Features](#Future-Features)
-        - [Future Feature1](#Future-Feature1)
-        - [Future Feature1](#Future-Feature1)
-3. [Technologies Used](#Technologies-Used)
-4. [Testing](#Testing)
-5. [Deployment](#Deployment)
-6. [Credits](#Credits)
+- [\[Project name\](deployed link)](#project-namedeployed-link)
+  - [Table of contents](#table-of-contents)
+  - [UX](#ux)
+    - [User Stories](#user-stories)
+    - [Wireframes](#wireframes)
+    - [Database schema](#database-schema)
+    - [Style and colours](#style-and-colours)
+  - [Features](#features)
+    - [Existing Features](#existing-features)
+    - [Future Features](#future-features)
+  - [Technologies Used](#technologies-used)
+  - [Testing](#testing)
+    - [Found bugs](#found-bugs)
+  - [Deployment](#deployment)
+  - [Credits](#credits)
+    - [Content](#content)
+    - [Acknowledgements](#acknowledgements)
+  - [\*Disclaimer: This project is made for Code Institute's November 2022 Hackathon](#disclaimer-this-project-is-made-for-code-institutes-november-2022-hackathon)
 
 ---
 
@@ -110,9 +111,9 @@ Short description
 
 ## Technologies Used
 
-- [Tech1](link to tech) - description
-- [Tech2](link to tech) - description
-- [Tech3](link to tech) - description
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) - used for structuring and presenting the content of the website
+- [CSS](https://en.wikipedia.org/wiki/CSS) - used for the styling
+- [Bootstrap](https://getbootstrap.com/) - used for responsiveness and for the design of the application
 
 [Back to top](#Table-of-contents)
 
