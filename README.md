@@ -147,7 +147,12 @@ Testing was done...
 
 ## Credits
 
+### Sounds
+- Sound files for piano notes sourced from https://archive.org/details/24-piano-keys/key15.mp3 (Created by Patrick Lauser, 2018)
+
 ### Content
+
+
 
 ### Acknowledgements
 
