@@ -34,7 +34,22 @@ Short description
 ---
 
 ### User Stories
-
+| ID | As a | I want to be able to... | So that I can... | Must Have, Should Have, Could Have, Won't Have |
+|:---:|---|---|---|---|
+|  |  | Viewing and navigation |  |  |
+| 1 | site user | View "About" information | Use the app features and functions | Must Have |
+| 2 |  | Find Instructions (Help?) | Play the game | Must Have |
+| 3 |  | Locate the app functions | Start the game, practise the piano or adminster the app | Must Have |
+| 4 |  | Recognise keyboard | Create music | Must Have |
+| 5 |  |  |  |  |
+| 6 |  | Interactions and activities |  |  |
+| 7 | site user | Utilize the keyboard | Create music | Should Have |
+| 8 | gamer, challenger | Initiate game mode | Switch to challenge mode | Must Have |
+| 9 | gamer, challenger | Configure game options | Select difficulty level and melody | Should Have |
+| 10 | Site user | Link to related site | Learn more about music theory | Could Have |
+| 11 |  |  |  |  |
+| 12 |  | Administration |  |  |
+| 13 | site user | Set and view score history | Measure my cognitive health | Could Have |
 [Back to top](#Table-of-contents)
 
 ---
