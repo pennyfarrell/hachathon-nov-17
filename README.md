@@ -1,7 +1,14 @@
-# [Project name](deployed link)
+# [SoundsGood](deployed link)
 
-Short description
 
+# Description
+
+SoundsGood is a music game that uses musical notes to:
+  1. Learn the sound and name of a musical note
+  2. Test their memory skills by having them rekey a range of music samples
+  3. Make their own music using the virtual keyboard
+
+The app is intended primarily as entertainment but might also be considered edutainment.
 ![Mockup image](Mockup imagelink)
 
 ---
@@ -75,6 +82,10 @@ Short description
 ## Features
 
 ### Existing Features
+  1. Full music scale (8 key) virtual keyboard with accompanying sounds for each musical note.
+  2. Selection of melodies for the game.
+  3. Timer for the game.
+  4. Comparison of user key selection with selected melodie. 
 
 - #### Feature1
 
@@ -101,7 +112,8 @@ Short description
 ---
 
 ### Future Features
-
+  1. Multi user feature
+  2. User added melodies
 - #### Favorite Feature 1
 
 [Back to top](#Table-of-contents)
