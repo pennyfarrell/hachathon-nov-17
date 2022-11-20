@@ -9,7 +9,10 @@ SoundsGood is a music game that uses musical notes to:
   3. Make their own music using the virtual keyboard
 
 The app is intended primarily as entertainment but might also be considered edutainment.
-![Mockup image](Mockup imagelink)
+
+## Design Overview:
+
+![game-overview](https://user-images.githubusercontent.com/115956513/202928598-ccd7b974-4d05-44d2-b1e6-64631f3e3198.PNG)
 
 ---
 
@@ -61,7 +64,19 @@ The app is intended primarily as entertainment but might also be considered edut
 
 ---
 
-### Wireframes
+### Design Wireframes
+
+## Team name, Game Name and Color Palette design:
+
+![team-game-name-color-palette](https://user-images.githubusercontent.com/115956513/202928874-72339406-2efe-4d87-aa6b-5fcc662dfba7.PNG)
+
+## Mobile design (Home, Game, Info, The Team)
+
+![Sounds-Good-design-mobile](https://user-images.githubusercontent.com/115956513/202928927-df399745-cb65-44ba-9a9c-879a110fd21e.PNG)
+
+## Desktop design (Home, Game, Info, The Team)
+
+![Sounds-Good-design-desktop](https://user-images.githubusercontent.com/115956513/202928942-17678dd9-af94-4a1b-921a-44b18fa5529c.PNG)
 
 [Back to top](#Table-of-contents)
 
@@ -74,6 +89,9 @@ The app is intended primarily as entertainment but might also be considered edut
 ---
 
 ### Style and colours
+
+![color-palette](https://user-images.githubusercontent.com/115956513/202929056-56bbf6a2-b523-403c-9cec-7648a6abbdb1.jpg)
+
 
 [Back to top](#Table-of-contents)
 
