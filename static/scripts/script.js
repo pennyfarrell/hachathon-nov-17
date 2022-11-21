@@ -69,3 +69,13 @@ function soundSource(src) {
             break;
     }
 }
+
+// Melodies
+
+// Happy birthday
+const happyBirthday = [
+    "d", "d", "e", "d", "g", "f",
+    "d", "d", "e", "d", "a", "g",
+    "d", "d", "d", "b", "a", "g", "f",
+    "c", "c", "b", "g", "a", "g"
+    ];
