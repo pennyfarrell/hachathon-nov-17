@@ -68,6 +68,7 @@ ul .white:active {
 
 ul li:last-child {
     border-radius: 0 5px 5px 5px
+
 } */
 
 /* Visual feedback */
@@ -99,3 +100,7 @@ ul li:last-child {
     height: 15 px;
     border-radius: 5px;
 }
+
+}
+
+/* teams */

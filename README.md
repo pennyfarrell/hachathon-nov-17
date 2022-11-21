@@ -1,8 +1,18 @@
-# [Project name](deployed link)
+# [SoundsGood](deployed link)
 
-Short description
 
-![Mockup image](Mockup imagelink)
+# Description
+
+SoundsGood is a music game that uses musical notes to:
+  1. Learn the sound and name of a musical note
+  2. Test their memory skills by having them rekey a range of music samples
+  3. Make their own music using the virtual keyboard
+
+The app is intended primarily as entertainment but might also be considered edutainment.
+
+## Design Overview:
+
+![game-overview](https://user-images.githubusercontent.com/115956513/202928598-ccd7b974-4d05-44d2-b1e6-64631f3e3198.PNG)
 
 ---
 
@@ -34,12 +44,39 @@ Short description
 ---
 
 ### User Stories
-
+| ID | As a | I want to be able to... | So that I can... | Must Have, Should Have, Could Have, Won't Have |
+|:---:|---|---|---|---|
+|  |  | Viewing and navigation |  |  |
+| 1 | site user | View "About" information | Use the app features and functions | Must Have |
+| 2 |  | Find Instructions (Help?) | Play the game | Must Have |
+| 3 |  | Locate the app functions | Start the game, practise the piano or adminster the app | Must Have |
+| 4 |  | Recognise keyboard | Create music | Must Have |
+| 5 |  |  |  |  |
+| 6 |  | Interactions and activities |  |  |
+| 7 | site user | Utilize the keyboard | Create music | Should Have |
+| 8 | gamer, challenger | Initiate game mode | Switch to challenge mode | Must Have |
+| 9 | gamer, challenger | Configure game options | Select difficulty level and melody | Should Have |
+| 10 | Site user | Link to related site | Learn more about music theory | Could Have |
+| 11 |  |  |  |  |
+| 12 |  | Administration |  |  |
+| 13 | site user | Set and view score history | Measure my cognitive health | Could Have |
 [Back to top](#Table-of-contents)
 
 ---
 
-### Wireframes
+### Design Wireframes
+
+## Team name, Game Name and Color Palette design:
+
+![team-game-name-color-palette](https://user-images.githubusercontent.com/115956513/202928874-72339406-2efe-4d87-aa6b-5fcc662dfba7.PNG)
+
+## Mobile design (Home, Game, Info, The Team)
+
+![Sounds-Good-design-mobile](https://user-images.githubusercontent.com/115956513/202928927-df399745-cb65-44ba-9a9c-879a110fd21e.PNG)
+
+## Desktop design (Home, Game, Info, The Team)
+
+![Sounds-Good-design-desktop](https://user-images.githubusercontent.com/115956513/202928942-17678dd9-af94-4a1b-921a-44b18fa5529c.PNG)
 
 [Back to top](#Table-of-contents)
 
@@ -53,6 +90,9 @@ Short description
 
 ### Style and colours
 
+![color-palette](https://user-images.githubusercontent.com/115956513/202929056-56bbf6a2-b523-403c-9cec-7648a6abbdb1.jpg)
+
+
 [Back to top](#Table-of-contents)
 
 ---
@@ -60,6 +100,10 @@ Short description
 ## Features
 
 ### Existing Features
+  1. Full music scale (8 key) virtual keyboard with accompanying sounds for each musical note.
+  2. Selection of melodies for the game.
+  3. Timer for the game.
+  4. Comparison of user key selection with selected melodie. 
 
 - #### Feature1
 
@@ -86,7 +130,8 @@ Short description
 ---
 
 ### Future Features
-
+  1. Multi user feature
+  2. User added melodies
 - #### Favorite Feature 1
 
 [Back to top](#Table-of-contents)
@@ -114,6 +159,7 @@ Short description
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) - used for structuring and presenting the content of the website
 - [CSS](https://en.wikipedia.org/wiki/CSS) - used for the styling
 - [Bootstrap](https://getbootstrap.com/) - used for responsiveness and for the design of the application
+- [Icons8](https://icons8.com) - used for favicon
 
 [Back to top](#Table-of-contents)
 
@@ -147,7 +193,13 @@ Testing was done...
 
 ## Credits
 
-### Content
+### Sounds
+- Sound files for piano notes sourced from https://archive.org/details/24-piano-keys/key15.mp3 (Created by Patrick Lauser, 2018)
+
+### Icons
+- Tab Piano icon https://icons8.com/icon/111554/pianoicons8-piano-64.png by Icons8 https://icons8.com
+
+
 
 ### Acknowledgements
 
