@@ -21,7 +21,7 @@ li {
 
 ul .white {
     height: 16em;
-    width: 4em;
+    width: 3.8em;
     z-index: 1;
     border-left: 1px solid #bbb;
     border-bottom: 1px solid #bbb;
@@ -62,10 +62,40 @@ ul .white:active {
     margin-left: 2px;
 }
 
-ul li:first-child {
+/* ul li:first-child {
     border-radius: 5px 0 5px 5px
 }
 
 ul li:last-child {
     border-radius: 0 5px 5px 5px
+} */
+
+/* Visual feedback */
+.oval {
+    /* visibility: hidden; */
+    z-index: 3;
+    width: 20px;
+    height: 15px;
+    /* background: red; */
+    border-radius: 10px / 7.5px;
+    margin: 5px auto;
+}
+
+.light {
+    background: red;
+}
+
+.menu {
+    background-color: lightblue;
+    height: 8em;
+    /* margin: 0 auto; */
+    padding-left: 5px;
+    margin-left: 5px;
+    width: 5em;
+}
+
+.menu-item {
+    background-color: lightgreen;
+    height: 15 px;
+    border-radius: 5px;
 }
