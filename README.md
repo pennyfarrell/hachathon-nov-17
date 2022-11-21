@@ -159,6 +159,7 @@ The app is intended primarily as entertainment but might also be considered edut
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) - used for structuring and presenting the content of the website
 - [CSS](https://en.wikipedia.org/wiki/CSS) - used for the styling
 - [Bootstrap](https://getbootstrap.com/) - used for responsiveness and for the design of the application
+- [Icons8](https://icons8.com) - used for favicon
 
 [Back to top](#Table-of-contents)
 
@@ -195,7 +196,8 @@ Testing was done...
 ### Sounds
 - Sound files for piano notes sourced from https://archive.org/details/24-piano-keys/key15.mp3 (Created by Patrick Lauser, 2018)
 
-### Content
+### Icons
+- Tab Piano icon https://icons8.com/icon/111554/pianoicons8-piano-64.png by Icons8 https://icons8.com
 
 
 
